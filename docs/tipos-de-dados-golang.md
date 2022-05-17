@@ -64,7 +64,7 @@ Se você precisar guardar algum número com parte real e parte imaginária, como
 
 | complex64  | capacidade: todos os float32 reais e parte imaginária |
 | ---------- | ----------------------------------------------------- |
-| complex128 | capacidade: todos os float64 reais e parte imaginá    |
+| complex128 | capacidade: todos os float64 reais e parte imaginária |
 
 No caso de números complexos, quando não definimos o seu tipo ao iniciar uma nova variável, o compilador do Go irá trata-lo como sendo do tipo **complex128**.
 
